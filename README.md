@@ -11,4 +11,4 @@ java -D"validator.resourceRoot"=.\resources -D"logging.file.path"=.\logs -D"vali
 3) Go with your browser to:
 
 - http://localhost:8080/shacl/swagger-ui/index.html to test the API
-- http://localhost:8080/shacl/xml-shacl/upload to test the user interface
+- http://localhost:8080/shacl/semic-xml/upload to test the user interface
